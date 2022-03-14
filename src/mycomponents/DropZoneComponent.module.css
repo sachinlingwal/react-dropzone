@@ -1,0 +1,9 @@
+.select {
+  cursor: pointer;
+  padding: 0.8em 2em;
+  border-radius: 1.5rem;
+  border: 0.5px solid #b7c3f3;
+  font-size: clamp(12px, 100%, 100%);
+  justify-self: left;
+  margin-right: 3em;
+}
